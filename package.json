@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "cylon": "^1.0.0",
-    "rolling-spider": "~1.0.0"
+    "rolling-spider": "git://github.com/hybridgroup/node-rolling-spider#feature/noble-v1"
   },
   "os": [
     "darwin",
